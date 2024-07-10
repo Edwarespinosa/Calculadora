@@ -1,5 +1,4 @@
 ﻿// EDWAR ESPINOSA YEPES CC 1113593877
-//Tener opresente que durante la creacion de variables se daclaran inciando con mayusculas cada palabra.
 
 const txtResultado = document.getElementById('txtResultado');
 const btnNumeros = document.querySelectorAll('.btn-numero');

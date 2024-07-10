@@ -5,14 +5,14 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #A9DFBF;
+    background-color: #000000;
     margin: unset
 }
 
 #txtResultado {
     padding: 20px; /* relleno */
     width: 290px; /* ancho */
-    background-color: #FEF9E7; /* Color de fondo */
+    background-color: #00ff21; /* Color de fondo */
     border: outset; /* Estilo del borde (none; solid, dotted, dashed, inset, outset) */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Cuadro - Sombra */
     cursor: zoom-in; /* Cursor */
